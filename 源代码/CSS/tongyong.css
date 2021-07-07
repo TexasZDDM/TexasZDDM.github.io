@@ -1,0 +1,96 @@
+body {
+    font:sans-serif;
+    background: #7f7c74 url(../image/background.png) no-repeat center 0;
+    position: inherit;
+    color:white;
+}
+
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+   
+}
+
+a{text-decoration: none;}
+
+#yemei{
+    height: 36px;
+    
+    
+}
+#yemei .shouye{
+    width:96px;
+    height:36px;
+    float:left;
+    margin-left: 60%;
+    text-align: center;
+    line-height: 36px;
+    font-family:SimHei;
+    font-weight: bold;
+    
+}
+
+#yemei .fenqu{
+    width:96px;
+    height:36px;
+    float:left;
+    text-align: center;
+    line-height: 36px;
+    font-family:SimHei;
+    font-weight: bold;
+}
+#zhuti{
+    height:650px;
+    width: 60%;
+}
+
+#zhuti .zhaopian{
+    width: 300px;
+    height:300px;
+    float:right;
+    background-color: aliceblue; 
+    border-radius:50%;
+    margin-bottom:30%;
+    margin-right: 10%;
+}
+#zhuti .zhaopian .qwq{
+    margin-top: 45%;
+    margin-left: 28%;
+    text-align: center;
+    float: left;
+
+}
+#yejiao{
+    height:16px;
+    float:right;
+}
+
+
+table{
+    margin-top: 10px;
+    margin-left:25px;
+    margin-right:25px;
+    float: left;
+    border-width: 1px 0 0 1px;
+    caption-side:bottom;
+    
+}
+.line
+{
+    width: 100%;
+    margin: 0 auto 10px auto;
+    border: 1px solid #cce8ff;
+    padding: 1px;
+    background-color: #FFFFFF;
+}
+
+
+.li{
+    list-style-type: none;
+}
+
+.td {
+    border-width: 0 1px 1px 0;
+    padding: 2px 20px;
+    height: 48px;
+}
